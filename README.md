@@ -128,4 +128,5 @@ Follow these steps below to add some provisioning steps, so that Apache HTTP Ser
 2. run vagrant destroy and vagrant up again.
 
 ## Future Improvements:
-- Introducing variables to make code more general 
+- Introducing variables to make code more general
+- configure DNS to make the website publicly accessible
